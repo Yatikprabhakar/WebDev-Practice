@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Arial;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+ul{
+    list-style-type: none;
+}
+header h2{
+    margin: 20.5px 48px;
+}
+
+header{
+    background-color: #496070;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+header nav ul{
+    display: flex;
+    margin-top: 26px;
+    margin-right: 48px;
+}
+.padding{
+    padding:0 16px;
+}
+.top{
+    text-align: center;
+    font-weight: bold;
+    font-size:3rem;
+    margin:0 auto;
+    width: 800px;
+}
+#top{
+    background-color: #f1f1f1;
+    padding: 4rem 3rem;
+}
+#services {
+    background-color: #f1f1f1;
+    padding-top: 38px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.space{
+    width:33%;
+    margin-bottom: 15px;
+    margin-right: 0;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 0;
+}
+section div div h3{
+    padding-top: 3%;
+}
